@@ -1,0 +1,2 @@
+A few pages website that include "Home", Contact, Gallery and About.
+its responsive as well
